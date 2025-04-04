@@ -50,6 +50,9 @@ Here’s what was done to clean and enhance the dataset:
 2. Run the Jupyter Notebook:
    - Make sure to place `flight_price.xlsx` in the same directory
    - Execute the cells to perform feature engineering
+3. Open in Colab
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sambit025/Flight_Price_Analysis/blob/main/index.ipynb)
+
 
 ## 📌 Future Work
 - Apply regression models to predict flight prices
