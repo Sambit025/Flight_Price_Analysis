@@ -45,7 +45,7 @@ Here’s what was done to clean and enhance the dataset:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flight-price-feature-engineering.git
+   git clone https://github.com/Sambit025/flight-price-feature-engineering.git
    ```
 2. Run the Jupyter Notebook:
    - Make sure to place `flight_price.xlsx` in the same directory
